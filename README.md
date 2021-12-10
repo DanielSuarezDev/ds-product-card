@@ -18,7 +18,7 @@ ProductButtons
 <ProductCard
   product={product}
   initialValue={{
-    count: 0,
+    count: 5, //desde donde empieza
     maxCount: 10,
   }}
 >
